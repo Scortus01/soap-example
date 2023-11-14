@@ -1,5 +1,5 @@
 # soap-example
-
+Url: http://localhost:8080/ws
 Create country:
 
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ude="http://udem.edu.co/isv/ejemplo-soap">
